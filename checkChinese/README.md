@@ -1,11 +1,11 @@
-# copyfolder
+# checkChinese
 
 A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
-lein run sourceFolder targetFolder
+lein run sourceFolder
 
-java -jar copyfolder.jar sourceFolder targetFolder
+java -jar checkChinese.jar sourceFolder
 
 FIXME
 
